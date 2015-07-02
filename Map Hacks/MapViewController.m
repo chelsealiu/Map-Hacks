@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 Lighthouse Labs. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "MapViewController.h"
 
-@interface ViewController ()
+@interface MapViewController ()
 
 @end
 
-@implementation ViewController
+@implementation MapViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
